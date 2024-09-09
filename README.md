@@ -25,7 +25,7 @@ The Gaussian Splatting system consists of several key components:
 ### Prerequisites
 
 - CUDA-capable 11.7 GPU(s)
-- NVCC for Pytorch Extension compilation [READ THIS](github.com/NeRF-or-Nothing/nerf-worker/wiki/NVCC-notes)
+- NVCC for Pytorch Extension compilation [READ THIS](https://github.com/NeRF-or-Nothing/nerf-worker/wiki/NVCC-notes)
 - Python 3.7+
 - PyTorch
 - RabbitMQ
